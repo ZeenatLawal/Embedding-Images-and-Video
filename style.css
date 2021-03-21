@@ -43,7 +43,7 @@ a {
   gap: 0;
 }
 
-.search input, 
+.search input,
 .search button {
   border: 1px solid lightgray;
 }
@@ -51,7 +51,7 @@ a {
 .wrapper {
   display: grid;
   grid-template-columns: 3fr 2fr;
-  padding: 0px 80px;
+  padding: 0 80px;
   gap: 20px;
   margin-top: 40px;
 }
@@ -65,7 +65,7 @@ iframe {
 }
 
 .caption h4,
-.caption p{
+.caption p {
   margin-top: 0;
 }
 
@@ -84,7 +84,7 @@ iframe {
   padding-bottom: 10px;
 }
 
-.title-name{
+.title-name {
   padding: 0;
   margin: 0;
 }
@@ -96,7 +96,7 @@ iframe {
 .subscribe {
   align-items: flex-start;
   padding: 5px;
-  margin: 20px 0px;
+  margin: 20px 0;
 }
 
 .subscribe img {
